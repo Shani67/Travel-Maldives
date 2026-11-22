@@ -11,7 +11,7 @@ export const atollShapes = [
   { name: "Faadhippolhu", lat: 5.35, lng: 73.55, rx: 0.12, ry: 0.11 },
   { name: "North Malé", lat: 4.4, lng: 73.5, rx: 0.14, ry: 0.3 },
   { name: "South Malé", lat: 3.95, lng: 73.43, rx: 0.1, ry: 0.15 },
-  { name: "Ari", lat: 3.85, lng: 72.85, rx: 0.18, ry: 0.45 },
+  { name: "Ari", lat: 3.9, lng: 72.86, rx: 0.17, ry: 0.5 },
   { name: "Felidhu", lat: 3.47, lng: 73.5, rx: 0.13, ry: 0.15 },
   { name: "Mulaku", lat: 2.95, lng: 73.55, rx: 0.12, ry: 0.2 },
   { name: "North Nilandhe", lat: 3.2, lng: 72.95, rx: 0.1, ry: 0.11 },
