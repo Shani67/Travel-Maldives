@@ -6,7 +6,7 @@
 
 Compare local islands, resort atolls and dive sites by budget and season, see them on an atoll map, then send a trip enquiry. The search and the enquiry form work with JavaScript turned off, and every page is tested against WCAG 2.2 AA.
 
-> **Live demo:** _add your Vercel URL here_
+> **Live demo:** https://travel-maldives.vercel.app
 
 | Home                                                      | Destinations                                                                  | Enquiry errors                                                      |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
