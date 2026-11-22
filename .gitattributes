@@ -1,0 +1,9 @@
+# Normalise line endings so the project behaves the same on Windows, macOS and Linux.
+* text=auto eol=lf
+*.sh text eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.mp4 binary
+*.webm binary
+*.ico binary
