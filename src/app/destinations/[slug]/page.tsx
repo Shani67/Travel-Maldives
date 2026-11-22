@@ -120,13 +120,17 @@ export default async function DestinationPage({ params }: Props) {
           </Link>
         </article>
 
-        <aside className="space-y-8">
+        <figure className="space-y-3">
           <MaldivesMap
             destinations={destinations}
             highlight={destination.slug}
             className="mx-auto h-[28rem] w-auto lg:h-[36rem]"
           />
-        </aside>
+          <figcaption className="mx-auto max-w-48 text-center text-sm text-muted">
+            <span className="font-semibold text-coral">{destination.name}</span> is marked in coral.
+            Schematic map, not to scale.
+          </figcaption>
+        </figure>
       </div>
 
       {related.length > 0 && (

@@ -65,16 +65,6 @@ export function MaldivesMap({ destinations, highlight, className }: Props) {
               className={active ? "fill-coral stroke-white" : "fill-lagoon stroke-white"}
               strokeWidth="1.5"
             />
-            {active && (
-              <text
-                x={x(lng) - 9}
-                y={y(lat) + 3}
-                textAnchor="end"
-                className="fill-ocean text-[9px] font-semibold"
-              >
-                {destination.name}
-              </text>
-            )}
           </g>
         );
       })}
